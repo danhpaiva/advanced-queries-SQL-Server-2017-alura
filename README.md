@@ -38,8 +38,9 @@ Mastering SQL queries.
 <h2 id=technology>🧰 Technology</h2>
 The following tools were used in the construction of the project:
 
-- SGBD: <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads">SQL SERVER 2019 Developer Edition</a>
-
+- SQL: <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads">SQL SERVER 2019 Developer Edition</a>
+- SGBD: <a href="https://aka.ms/ssmsfullsetup">SQL Server Management Studio</a>
+  
 <h2 id=author>😄 Author</h2>
 Developed by <a href="https://www.linkedin.com/in/danhpaiva/">Daniel Paiva</a>
 
